@@ -210,9 +210,9 @@ fun_fact: "Coding isn't my primary skill"
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratiksingh121/pratiksingh121/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratiksingh121/pratiksingh121/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pratiksingh121/pratiksingh121/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -229,7 +229,7 @@ fun_fact: "Coding isn't my primary skill"
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratiksingh121&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=pratiksingh121&theme=onedark&column=7&no-frame=true&no-bg=true" width="100%" />
 
 </div>
 
