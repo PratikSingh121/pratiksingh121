@@ -143,12 +143,12 @@ fun_fact: "Coding isn't my primary skill"
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/pratiksingh121">
-        <img src="https://github-readme-stats.vercel.app/api?username=pratiksingh121&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="100%" />
+        <img src="https://github-readme-stats-nine-alpha-21.vercel.app/api?username=pratiksingh121&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/pratiksingh121">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksingh121&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&langs_count=8" width="100%" />
+        <img src="https://github-readme-stats-nine-alpha-21.vercel.app/api/top-langs/?username=pratiksingh121&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&langs_count=8" width="100%" />
       </a>
     </td>
   </tr>
@@ -186,8 +186,8 @@ fun_fact: "Coding isn't my primary skill"
 <br/><br/>
 
 <!-- Project cards -->
-<a href="https://github.com/PratikSingh121/FluidGravity">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=PratikSingh121&repo=FluidGravity&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=58a6ff&title_color=58a6ff&description_lines=3" />
+<a href="https://github.com/pratiksingh121/FluidGravity">
+  <img width="60%" src="https://github-readme-stats-nine-alpha-21.vercel.app/api/pin/?username=pratiksingh121&repo=FluidGravity&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=58a6ff&title_color=58a6ff&description_lines=3" />
 </a>
 
 </div>
