@@ -139,25 +139,32 @@ fun_fact: "Coding isn't my primary skill"
 
 <br/><br/>
 
-<!-- Row 1: Stats + Streak -->
-<a href="https://github.com/pratiksingh121">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratiksingh121&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/pratiksingh121">
-  <img width="49%" src="https://streak-stats.demolab.com?user=pratiksingh121&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2: Top Languages + Activity Graph -->
-<a href="https://github.com/pratiksingh121">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksingh121&layout=donut-vertical&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-</a>
-&nbsp;
-<a href="https://github.com/pratiksingh121">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratiksingh121&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&radius=12" />
-</a>
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/pratiksingh121">
+        <img src="https://github-readme-stats.vercel.app/api?username=pratiksingh121&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/pratiksingh121">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksingh121&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&langs_count=8" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/pratiksingh121">
+        <img src="https://streak-stats.demolab.com?user=pratiksingh121&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=12" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/pratiksingh121">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiksingh121&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&radius=12" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
