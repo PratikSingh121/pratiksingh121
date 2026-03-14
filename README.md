@@ -200,42 +200,6 @@ fun_fact: "Coding isn't my primary skill"
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       CONTRIBUTION SNAKE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="snake" width="28" /> &nbsp; **Contribution Graph**
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PratikSingh121/PratikSingh121/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="trophy" width="28" /> &nbsp; **Achievements**
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratiksingh121&theme=onedark&column=7&no-frame=true&no-bg=true" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                             FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
