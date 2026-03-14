@@ -9,7 +9,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+is+being+refactored+by+AI.+--Andrej+Karpathy;Design+is+not+just+what+it+looks+like.+Design+is+how+it+works.+--Steve+Jobs;Invention+is+the+most+important+product+of+man's+creative+brain.+--Nikola+Tesla" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Software+is+being+refactored+by+AI.+--Andrej+Karpathy;Design+is+not+just+what+it+looks+like.+Design+is+how+it+works.+--Steve+Jobs;Invention+is+the+most+important+product+of+man's+creative+brain.+--Nikola+Tesla" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -112,7 +112,13 @@ fun_fact: "Coding isn't my primary skill"
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/DSPy-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoGen-0052FF?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-2F2E41?style=for-the-badge&logo=database&logoColor=white" />
 
 </div>
 
